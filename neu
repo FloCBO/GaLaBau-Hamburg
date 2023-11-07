@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> <!-- Verweis auf Ihre CSS-Datei -->
+    <title>BOS GaLaBau - Garten- und Landschaftsunternehmen</title>
+</head>
+<body>
+    <header>
+        <h1>BOS GaLaBau</h1>
+        <p>Ihr Partner für Garten- und Landschaftsgestaltung</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#startseite">Startseite</a></li>
+            <li><a href="#terrassenreinigung">Terrassenreinigung</a></li>
+            <li><a href="#dachreinigung">Dachreinigung</a></li>
+            <li><a href="#gruenflaechenbeschneiden">Grünflächenbeschneiden</a></li>
+            <!-- Weitere Dienstleistungen hier einfügen -->
+            <li><a href="#kontakt">Kontakt</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="startseite">
+            <h2>Willkommen bei BOS GaLaBau</h2>
+            <p>Ihr Partner für Garten- und Landschaftsgestaltung in Hamburg.</p>
+        </section>
+        
+        <section id="terrassenreinigung">
+            <h2>Terrassenreinigung</h2>
+            <p>Wir bieten professionelle Terrassenreinigungsdienste für Ihr Zuhause.</p>
+        </section>
+        
+        <section id="dachreinigung">
+            <h2>Dachreinigung</h2>
+            <p>Unsere Dachreinigungsdienste erhalten und schützen Ihr Dach.</p>
+        </section>
+        
+        <section id="gruenflaechenbeschneiden">
+            <h2>Grünflächenbeschneiden</h2>
+            <p>Wir kümmern uns um Ihre Garten- und Grünflächen.</p>
+        </section>
+        <!-- Weitere Dienstleistungen hier einfügen -->
+    </main>
+    
+    <footer id="kontakt">
+        <h2>Kontakt</h2>
+        <p>Florian Bostelmann</p>
+        <p>Herrengraben 22, 20459 Hamburg</p>
+        <p>Telefon: 0160 6673539</p>
+        <p>E-Mail: <a href="mailto:galabau@bosrealestate.de">galabau@bosrealestate.de</a></p>
+    </footer>
+</body>
+</html>
